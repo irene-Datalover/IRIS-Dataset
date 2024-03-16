@@ -331,11 +331,11 @@ print("ROC AUC Score:", roc_auc)
 
 # # Insights
 
-Species Differentiation: The dataset helps distinguish between three types of iris flowers: Setosa, Versicolor, and Virginica, based on their petal and sepal measurements.
+"""Species Differentiation: The dataset helps distinguish between three types of iris flowers: Setosa, Versicolor, and Virginica, based on their petal and sepal measurements.
 
 Feature Importance: It shows which characteristics (sepal length, sepal width, petal length, petal width) are most relevant for classifying iris species.
 
-Model Selection: It aids in choosing the right machine learning model (like decision trees or support vector machines) for accurately predicting iris species.
+Model Selection: It aids in choosing the right machine learning model (like decision trees or support vector machines) for accurately predicting iris species."""
 
 Model Evaluation: It helps assess how well the chosen model performs in predicting iris species using metrics like accuracy or confusion matrix.
 

@@ -335,8 +335,8 @@ print("ROC AUC Score:", roc_auc)
 
 Feature Importance: It shows which characteristics (sepal length, sepal width, petal length, petal width) are most relevant for classifying iris species.
 
-Model Selection: It aids in choosing the right machine learning model (like decision trees or support vector machines) for accurately predicting iris species."""
+Model Selection: It aids in choosing the right machine learning model (like decision trees or support vector machines) for accurately predicting iris species.
 
 Model Evaluation: It helps assess how well the chosen model performs in predicting iris species using metrics like accuracy or confusion matrix.
 
-Real-World Applications: Insights from the dataset can be applied to various fields such as botany or agriculture for species identification and classification.
+Real-World Applications: Insights from the dataset can be applied to various fields such as botany or agriculture for species identification and classification."""
